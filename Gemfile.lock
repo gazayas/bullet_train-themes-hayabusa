@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bullet_train-themes-hayabusa (1.2)
+    bullet_train-themes-hayabusa (1.3)
       bullet_train-themes-light
       bullet_train-themes-tailwind_css
       rails (>= 7.0.0)
