@@ -24,4 +24,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "rails", ">= 7.0.0"
   spec.add_dependency "bullet_train-themes-tailwind_css"
+  spec.add_dependency "bullet_train-themes-light"
 end
