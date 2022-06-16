@@ -1,7 +1,7 @@
 module BulletTrain
   module Themes
-    module Light
-      VERSION = "1.0.26"
+    module Hayabusa
+      VERSION = "1.0"
     end
   end
 end
